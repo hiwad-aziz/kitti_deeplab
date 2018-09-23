@@ -1,5 +1,5 @@
 # KITTI DeepLab
-Inference script and frozen inference graph with fine tuned weights for semantic segmentation on images from the KITTI dataset with TensorFlow. While the weights provided by the authors reach an mIoU of 44% on the validation set, the fine-tuned weights reach an mIoU of 72.73 %.
+Inference script and frozen inference graph with fine tuned weights for semantic segmentation on images from the KITTI dataset with TensorFlow. While the weights provided by the DeepLab authors reach an mIoU of 44% on the KITTI validation set, the fine-tuned weights reach an mIoU of 72.73 %.
 
 ## Example output
 ##### Original image
@@ -19,7 +19,7 @@ Inference script and frozen inference graph with fine tuned weights for semantic
 
 ## Getting Started
 
-CLone the repository:
+Clone the repository:
 `git clone https://github.com/hiwad-aziz/kitti_deeplab.git`
 
 Download the frozen inference graph:
