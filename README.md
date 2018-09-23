@@ -6,10 +6,12 @@ Inference script and frozen inference graph with fine tuned weights for semantic
 <p align="center">
   <img src="./images/original.png">
 </p>
+
 ##### Segmentation Result with original graph
 <p align="center">
   <img src="./images/segmented_original_graph.png">
 </p>
+
 ##### Segmentation Result with fine-tuned graph
 <p align="center">
   <img src="./images/segmented_fine-tuned_graph.png">
